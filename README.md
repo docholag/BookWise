@@ -50,7 +50,7 @@ Hệ thống Quản lý Thư viện Đại học được phát triển bằng N
 - Node.js (>=18)
 - pnpm (hoặc npm)
 
-## 📦Cài đặt dependencies
+## 📦 Cài đặt dependencies
 
 Install the project dependencies using pnpm:
 
@@ -58,7 +58,7 @@ Install the project dependencies using pnpm:
 pnpm install
 ```
 
-## 🛠️Thiết lập môi trường
+## 🛠️ Thiết lập môi trường
 
 Tạo file .env trong thư mục web-app với nội dung như sau:
 
