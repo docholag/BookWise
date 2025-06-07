@@ -44,13 +44,13 @@ Hệ thống Quản lý Thư viện Đại học được phát triển bằng N
 
 ---
 
-### 🔧 Yêu cầu
+## 🔧 Yêu cầu
 
 - Git
 - Node.js (>=18)
 - pnpm (hoặc npm)
 
-**Cài đặt dependencies**
+## 📦Cài đặt dependencies
 
 Install the project dependencies using pnpm:
 
@@ -58,7 +58,7 @@ Install the project dependencies using pnpm:
 pnpm install
 ```
 
-**Thiết lập môi trường**
+## 🛠️Thiết lập môi trường
 
 Tạo file .env trong thư mục web-app với nội dung như sau:
 
@@ -84,7 +84,7 @@ RESEND_TOKEN=
 ```
 Điền đầy đủ các giá trị từ tài khoản của bạn tại: ImageKit, NeonDB, Upstash, Resend.
 
-**Chạy ứng dụng**
+## ▶️ Chạy ứng dụng
 
 ```bash
 pnpm db:migrate
@@ -94,7 +94,7 @@ pnpm dev
 
 Mở trình duyệt và truy cập: http://localhost:3000.
 
-**Ghi chú**
+## 📚 Ghi chú
 
 Dự án hướng đến việc học tập và triển khai thực tế. Phù hợp với sinh viên ngành CNTT, những người muốn học Next.js chuyên sâu, hoặc các nhóm đang tìm kiếm giải pháp quản lý thư viện cho tổ chức.
 
