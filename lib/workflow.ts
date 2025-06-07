@@ -32,12 +32,12 @@ export const sendEmail = async ({
         provider: resend({ token: config.env.resendToken }),
       },
       body: {
-        from: 'BookWise Library <contact@arthurkameni.com>',
+        from: 'BookWise Library <dev.docholag.com>',
         to: [email],
         subject: subject,
         html: typeof message === 'string' ? message : JSON.stringify(message),
       },
-    });    
+    });
     return { success: true, data: response };
   } catch (error) {
     console.error('Error sending email:', error);

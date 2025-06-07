@@ -73,7 +73,7 @@ export default function ProfileCard({
         <div className="">
           <p className="text-light-100">University</p>
           <p className="text-xl font-semibold uppercase text-white">
-            Cité Collégiale
+            VIET - HAN UNIVERSITY
           </p>
         </div>
         <div className="mt-4">
