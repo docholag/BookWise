@@ -1,0 +1,16 @@
+node_modules/
+dist/
+build/
+coverage/
+.next/
+.vscode/
+migrations/
+*.log
+*.tmp
+*.cache
+.DS_Store
+*.min.js
+*.min.css
+.env
+package.json
+pnpm-lock.yaml
