@@ -1,6 +1,6 @@
 # <span id="introduction">Introduction</span>
 
-Built with Next.js, TypeScript, and Postgres, the University Library Management
+University Library Management
 System is a production-grade platform featuring a public-facing app and an admin
 interface. It offers advanced functionalities like seamless book borrowing with
 reminders and receipts, robust user management, automated workflows, and a
@@ -118,17 +118,14 @@ UPSTASH_REDIS_TOKEN=
 
 AUTH_SECRET=
 
-# Required for workflow
 QSTASH_URL=
 QSTASH_TOKEN=
 
-# RESEND_TOKEN=
 RESEND_TOKEN=
 ```
 
 Replace the placeholder values with your actual ImageKit, NeonDB, Upstash, and
-Resend credentials. You can obtain these credentials by signing up on the
-[ImageKit](https://bit.ly/49zmXkt), [NeonDB](https://fyi.neon.tech/1jsm),
+Resend credentials.[ImageKit](https://bit.ly/49zmXkt), [NeonDB](https://fyi.neon.tech/1jsm),
 [Upstash](https://upstash.com/?utm_source=jsmastery1), and
 [Resend](https://resend.com/).
 
