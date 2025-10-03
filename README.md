@@ -1,38 +1,4 @@
-<div align="center">
-
-[![Project Banner](https://github.com/user-attachments/assets/7cff0964-6c02-4af5-aa0c-964b349cc9aa)](https://github.com/AKameni1/LMS/tree/main/web-app)
-
-<div>
-
-![next.js](https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6)
-![postgresql](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logoColor=white&logo=postgresql&color=4169E1)
-![upstash](https://img.shields.io/badge/-Upstash-black?style=for-the-badge&logoColor=white&logo=upstash&color=00E9A3)
-![tailwindcss](https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4)
-
-</div>
-
-### A University Library Management System with Admin Panel
-
-<div align="center">
-
-Build this project step by step with our detailed tutorial on
-[**GitHub**](https://github.com/AKameni1/LMS/tree/main/web-app) Explore our
-repository and contribute to the project!
-
-</div>
-
-</div>
-
-# 📋 <span id="table">Table of Contents</span>
-
-1. 🤖 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🚀 [More](#more)
-
-# <span id="introduction">🤖 Introduction</span>
+# <span id="introduction">Introduction</span>
 
 Built with Next.js, TypeScript, and Postgres, the University Library Management
 System is a production-grade platform featuring a public-facing app and an admin
@@ -40,13 +6,7 @@ interface. It offers advanced functionalities like seamless book borrowing with
 reminders and receipts, robust user management, automated workflows, and a
 modern, optimized tech stack for real-world scalability.
 
-If you're getting started or facing any bugs, feel free to open an **issue** on
-my GitHub. It's a place where I can help each other out and resolve issues
-together.
-
-[![Open an Issue](https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e)](https://github.com/AKameni1/university-lms/issues)
-
-# <span id="tech-stack">⚙️ Tech Stack</span>
+# <span id="tech-stack">Tech Stack</span>
 
 - Next.js
 - PostgreSQL
@@ -56,7 +16,7 @@ together.
 - Resend
 - Tailwind CSS
 
-# <span id="features">🔋 Features</span>
+# <span id="features">Features</span>
 
 ## Features of the University Library Management System Project
 
@@ -107,47 +67,29 @@ notifications sent upon role updates.
 👉 **Advanced Functionalities**: Caching, rate-limiting, DDoS protection, and
 custom notifications.
 
-👉 **Database Management**: Postgres with Neon for scalable and collaborative
+Database Management: Postgres with Neon for scalable and collaborative
 database handling.
 
-👉 **Real-time Media Processing**: ImageKit for image and video optimization and
+Real-time Media Processing: ImageKit for image and video optimization and
 transformations.
 
-👉 **Efficient Caching**: Upstash Redis for caching, workflows, and triggers.
+Efficient Caching: Upstash Redis for caching, workflows, and triggers.
 
-👉 **Database ORM**: Drizzle ORM for simplified and efficient database
+Database ORM: Drizzle ORM for simplified and efficient database
 interactions.
 
-👉 **Modern UI/UX**: Built with TailwindCSS, ShadCN, and other cutting-edge
+Modern UI/UX: Built with TailwindCSS, ShadCN, and other cutting-edge
 tools.
 
-👉 **Technology Stack**: Next.js with TypeScript for scalable development, and
+Technology Stack: Next.js with TypeScript for scalable development, and
 NextAuth for robust authentication.
 
-👉 **Seamless Email Handling**: Resend for automated email communications,
+Seamless Email Handling: Resend for automated email communications,
 including notifications and updates.
 
 and many more, including code architecture and reusability
 
-# <span id="quick-start">🤸 Quick Start</span>
-
-Follow these steps to set up the project locally on your machine.
-
-**Prerequisites**
-
-Make sure you have the following installed on your machine:
-
-- [Git](https://git-scm.com/)
-- [Node.js](https://nodejs.org/en)
-- [npm](https://www.npmjs.com/) (Node Package Manager)
-
-**Cloning the Repository**
-
-```bash
-git clone https://github.com/AKameni1/LMS.git
-cd LMS/web-app
-```
-
+# <span id="quick-start">Quick Start</span>
 **Installation**
 
 Install the project dependencies using pnpm:
@@ -197,16 +139,3 @@ pnpm db:migrate
 pnpm seed
 pnpm dev
 ```
-
-Open [http://localhost:3000](http://localhost:3000) in your browser to view the
-project.
-
-# <span id="more">🚀 More</span>
-
-**Advance your skills with Next.js Pro Course**
-
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer
-learning adventure. They're packed with detailed explanations, cool features,
-and exercises to boost your skills. Give it a go!
-
-[![Project Banner](https://github.com/user-attachments/assets/b8760e69-1f81-4a71-9108-ceeb1de36741)](https://jsmastery.pro/next15)
